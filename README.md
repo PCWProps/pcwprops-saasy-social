@@ -1,4 +1,4 @@
-# sassy-social
+# saasy-social
 
 ## role
 - Social execution surface (campaign boards, blog curation, social analytics).
@@ -8,6 +8,3 @@
 
 ## forbidden overlaps
 - No identity, no policy, no intent routing.
-
-## note
-- Renamed to saasy-social in target migration.
