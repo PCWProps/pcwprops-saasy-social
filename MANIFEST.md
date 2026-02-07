@@ -1,6 +1,6 @@
-# sassy-social MANIFEST (→ saasy-social)
+# saasy-social MANIFEST
 
-- **System:** sassy-social (target: saasy-social)
+- **System:** saasy-social
 - **Purpose:** Social execution surface (campaign boards, blog curation, social analytics).
 - **Public interfaces:** TBD; packages: campaign-boards, blog-curation, social-analytics.
 - **Dependencies:** saasy-tech, design-system.
