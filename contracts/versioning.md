@@ -1,3 +1,3 @@
-# sassy-social Versioning
+# saasy-social Versioning
 
 - **Semver:** MAJOR.MINOR.PATCH
