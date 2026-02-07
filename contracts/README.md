@@ -1,1 +1,1 @@
-# sassy-social contracts (→ saasy-social)
+# saasy-social contracts
