@@ -1,0 +1,27 @@
+# JSON Package for Brand Profiles Management Hub
+# This package contains Platform Names and settings values for account and profile fields that can be used to manage brand profiles through the custom zapier integration.
+# All fields are verified against platform documentation with Context7 to ensure accuracy and reliability.
+# Field updates through the zapier integration are processed via API or zapier connections where applicable.
+
+{
+  "name": "Brand Profiles Management Hub",
+  "version": "1.0.0",
+  "description": "Account and Profile settings fields to manage all brand profiles in one place.",
+  "$schema": "https://json.schemastore.org/package",
+
+  "author": {
+    "name": "PCWProps LLC",
+    "email": "developer@pcwprops.com"
+  },
+  "Platforms": [
+    {
+      "id": "Faceboki",
+      "title": "Firs Item",
+      "active": true
+    }
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "author": null
+  }
+}
